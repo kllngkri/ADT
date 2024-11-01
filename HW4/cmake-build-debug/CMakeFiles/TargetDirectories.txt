@@ -1,0 +1,3 @@
+C:/Users/66918/Desktop/abtract data type/HW4/cmake-build-debug/CMakeFiles/HW4.dir
+C:/Users/66918/Desktop/abtract data type/HW4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/66918/Desktop/abtract data type/HW4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
